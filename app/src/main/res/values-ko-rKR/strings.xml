@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">할일 목록</string>
+    <string name="action_settings">설정</string>
+    <string name="edit_todo_list">해야할 일</string>
+    <string name="next">다음</string>
+    <string name="previous">이전</string>
+    <string name="add_todo_item">새로운 할 일이 추가 되었습니다</string>
+    <string name="updage_todo_item">할 일이 성공적으로 수정되었습니다</string>
+    <string name="delete_todo_item">선택한 할 일이 목록에서 삭제되었습니다</string>
+    <string name="default_Value_Content">라떼 한잔 구입</string>
+    <string name="default_Value_Date">2020년 09월 11일</string>
+</resources>
